@@ -2,3 +2,4 @@
 在dev分支上做的修改
 Git is a version control system.
 Git is free software.
+Creating a new branch is quick AND simple.
